@@ -39,3 +39,5 @@ to next java run.*
 
 ### Snyk UI
 ![Snyk UI Reachable Vulnerabilities](UI_reachable.png)
+
+[![workflow for Maven using Snyk security scan](https://github.com/looking4ward/java-reachability-playground/actions/workflows/snyk.yml/badge.svg)](https://github.com/looking4ward/java-reachability-playground/actions/workflows/snyk.yml)
